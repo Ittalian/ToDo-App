@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="max_text">最高</string>
+    <string name="min_text">最低</string>
+    <string name="pulse_text">脈拍</string>
+    <string name="save_text">保存</string>
+    <string name="delete_text">削除</string>
+    <string name="todo_text">やること</string>
+    <string name="deadLine_text">期限</string>
+</resources>
